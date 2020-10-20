@@ -1,0 +1,1 @@
+# P y t h o n   f o r   b e r e g n i n g e r   T e s t   p å   n y t t   :   1 0 - S e p - 2 0 2 0   ( 1 2 : 0 3 : 1 9 . 4 7 1 5 4 2 )sum_black=1.0 sum_red=32.0 sum_yellow=28.0 sum_green=36.0black:[1.0, 0.0] red:[2.0, 9.0, 8.0, 4.0, 5.0, 4.0] yellow:[3.0, 5.0, 3.0, 2.0, 1.0, 1.0, 6.0, 7.0] green:[2.0, 4.0, 5.0, 3.0, 5.0, 6.0, 7.0, 0.0, 4.0]
